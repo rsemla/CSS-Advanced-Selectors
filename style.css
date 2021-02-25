@@ -1,10 +1,10 @@
 ul li {
-  text-color: red;
+  font-color: red;
   padding: 5px;
   margin-left: 35px;
 }
 ol li {
-  text-size: 24px;
+  font-size: 24px;
   padding: 5px;
   margin-left: 35px;
 }
