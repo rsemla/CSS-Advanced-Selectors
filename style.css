@@ -31,3 +31,22 @@
   width:100px;
   background:red;
 }
+.red1 :nth-child(1) {
+  font-style:italic;
+}
+.red2 :nth-child(1) {
+  font-style:italic;
+}
+.red3 :nth-child(1) {
+  font-style:italic;
+}
+button {
+  margin:10px;
+}
+button:hover {
+  background-color:blue;
+}
+button:active {
+  height:200px;
+  width:150px;
+}
