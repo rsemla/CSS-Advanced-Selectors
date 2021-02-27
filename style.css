@@ -1,3 +1,17 @@
+.list1 :nth-child(3) {
+  color:red;
+}
+.list1 :nth-child(4) {
+  color:red;
+}
+.list2 :nth-child(2){
+  font-size:24px;
+}
+.list2 :nth-child(4){
+  font-size:24px;
+}
+
+
 .red1 {
   height:100px;
   width:100px;
@@ -9,9 +23,7 @@
   height:100px;
   width:100px;
   background:red;
-  color:white;
- 
-   
+   color:white;
 }
 
 .red3 {
